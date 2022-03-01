@@ -28,6 +28,6 @@ describe('Triangle', () => {
     const equiTriangle = new Triangle(5,5,5)
     expect(equiTriangle.checkType()).toEqual("equilateral triangle");
   });
-  
+
 });
 
